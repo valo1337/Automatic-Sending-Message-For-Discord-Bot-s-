@@ -31,6 +31,7 @@ client.on("ready", () => {
           case '3':
               channel.send("Nice Project!");
               break;
+                //etc
         }
       }, 5000);
 
